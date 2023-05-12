@@ -1,0 +1,19 @@
+section#conteudo {
+    width: 100px;
+    margin: left;
+}
+
+iframe#frame-spec {
+    width: 400px;
+    height: 280px;
+    border: none;
+    position: absolute;
+}
+img#oculos-edit {
+    float:left;
+}
+
+iframe#frame-spec::-webkit-scrollbar {
+    display:none
+
+}
